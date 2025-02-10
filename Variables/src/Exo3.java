@@ -1,6 +1,6 @@
 public class Exo3 {
     public static void main(String[] args) {
-        // Types Primitifs
+        
         byte myByte = 1;
         short myShort = 2;
         int myInt = 3;
